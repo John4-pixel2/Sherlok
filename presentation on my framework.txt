@@ -1,0 +1,21 @@
+Today, I'm going to walk you through some code that will help improve our game, Sherlock Holmes: The Marilyn Monroe Case. Let's dive right in!
+
+First, we have a function called print_welcome(). This function prints a welcome message to the player when they start the game. It creates a border around the message to make it stand out. This will make players feel excited and engaged from the start.
+
+Next, we have print_sherlock() which introduces Sherlock Holmes and his time machine. This sets the stage for the game and adds an element of mystery and adventure.
+
+Then, print_mission() tells the player their mission: to find and save Marilyn Monroe. This adds a sense of purpose and urgency to the game.
+
+Lastly, print_time_machine() explains the time machine's limitations, adding a strategic element to the game.
+
+Moving on to the UI/UX part of the game, we have a class called GameInterface that handles the presentation of the game on the screen. We have different views like the main view, intro view, scenarios view, and final scenario view.
+
+In the main view, players see a background image, title, and a "Play Now" button. This creates an attractive and engaging starting point for the game.
+
+In the intro view, players are given a brief introduction to the game and a button to proceed to scenarios. This sets the scene for the adventure and builds anticipation.
+
+The scenarios view presents shuffled scenarios with entry fields for answers. This challenges players to think creatively and engage with the game on a deeper level.
+
+Finally, the final scenario view compares user answers with correct answers and displays a message accordingly. This provides instant feedback to players and adds a sense of accomplishment or challenge.
+
+In conclusion, these code snippets and UI/UX elements work together to enhance the player experience, making the game more engaging, immersive, and fun. So, let's implement these changes and take our game to the next level! Let's have some fun solving mysteries with Sherlock Holmes and saving Marilyn Monroe. Let's go!
