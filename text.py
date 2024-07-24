@@ -3,22 +3,28 @@ import API
 WELCOME_MESSAGE = "Welcome to the Game! Click 'Start Game' to start."
 
 INTRO_MESSAGE = """<<< Sherlock Holmes: Marilyn Monroe Case >>>\n
-Sherlock Holmes, the genius consulting detective possesses the one and only time traveling machine. The detective travels back in time to solve mysterious cases. With the help of his time machine, Sherlock acquires crucial, yet sometimes questionable information. You take upon yourself the case of Marilyn Monroe; the mysterious death of the famous american figure that was officially signed off as a suicide. 
-
+Sherlock Holmes, the genius consulting detective possesses the one and only time traveling machine.
+The detective travels back in time to solve mysterious cases.
+With the help of his time machine, Sherlock acquires crucial, yet sometimes questionable information.
+You take upon yourself the case of Marilyn Monroe; the mysterious death of the famous american figure
+that was officially signed off as a suicide.
 This time, you want to make your own research and gather your own leads in order to save the star's life.
 
 Do you want to read a summary of the Wiki article about Marilyn Monroe's Death?."""
 
-NEWSPAPER_ARTICLE = """Marilyn Monroe (June 1, 1926 – August 4, 1962) was an American actress and model. Known for playing comic 'blonde bombshell' characters, she became one of the most popular sex symbols of the 1950s and early 1960s. Marilyn contracted with the William Morris Agency in August 1945. The agency deemed Monroe's figure more suitable for pin-up than high fashion modeling at the time. One year later Marilyn signed a contract with 20th Century-Fox learning acting, singing, and dancing. Her contract was renewed in February 1947. On the evening of August 4, 1962, the American actress Marilyn Monroe died at age 36 of a 'barbiturate overdose' between 8:30 p.m. and 10:30 p.m. inside her home.
+NEWSPAPER_ARTICLE = """Marilyn Monroe (June 1, 1926 – August 4, 1962) was an American actress and model.
+Known for playing comic 'blonde bombshell' characters, she became one of the most popular sex symbols of the 1950s and early 1960s.
+Marilyn contracted with the William Morris Agency in August 1945. The agency deemed Monroe's figure more suitable for pin-up than high fashion modeling at the time.
+One year later Marilyn signed a contract with 20th Century-Fox learning acting, singing, and dancing.
+Her contract was renewed in February 1947.
+On the evening of August 4, 1962, the American actress Marilyn Monroe died at age 36
+of a 'barbiturate overdose' between 8:30 p.m. and 10:30 p.m. inside her home.
 
 YOUR MISSION: FIND AND SAVE MARILYN!"""
 
 MACHINE_INTRODUCTION_MESSAGE = """Here are your machine's features:
-
-1. Research On Wikipedia
-2. Initiate Time Travel
-
-What would you like to do?"""
+1. Do Some Research
+2. Initiate Time Travel"""
 
 TIME_MACHINE_MESSAGE = """In your time machine, you have implemented a program that allows you to access information from present day Wikipedia,
 the extremely trustworthy source of information that every great detective uses.
@@ -72,8 +78,6 @@ EXPLAIN_MESSAGE = """Marilyn is deeply distressed. She doesn't believe you and s
 
 You have altered the time line but didn't save Marilyn."""
 
-SECOND_MESSAGE = """"""
-
 FINAL_MESSAGE = """Game over, would you like to play again?
 
-Wikipedia has been a source of help on your investigation, consider donating to help keep it online!"""
+Wikipedia has been a source of help on your investigation, consider donating to help keep it online."""
